@@ -52,19 +52,19 @@
                 "name": "1 Pollo",
                 "description": "8 Presas + guacamole + 2 acompañamientos",
                 "price": "32.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PolloCompleto_AcompanamientoOriginal_AcompanamientoDulce_Guacamole.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Pollo2Acompanamientos.jpg"
             },
             {
                 "name": "1/2 Pollo",
                 "description": "4 Presas + guacamole + 2 acompañamientos",
                 "price": "19.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/4Presas_AcompanamientoOriginal_AcompanamientoDulce_SalsaDeLaCasa.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/MedioPollo2Acompanamientos.jpg"
             },
             {
                 "name": "1/4 Pollo",
                 "description": "2 Presas + guacamole + 2 acompañamientos",
                 "price": "15.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/2Presas_AcompanamientoOriginal_AcompanamientoDulce_SalsaDeLaCasa_Guacamole.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/CuartoPollo2Acompanamientos.jpg"
             }
         ]
     },
@@ -76,13 +76,13 @@
                 "name": "1 Pollo",
                 "description": "8 Presas + 2 Acompañamientos + 1 Dulce + Guacamole + Salsa de la casa",
                 "price": "35.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PolloCompleto_AcompanamientoOriginal_AcompanamientoDulce_Guacamole_SalsaDeLaCasa.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Pollo3Acompanamientos.jpg"
             },
             {
                 "name": "1Pollo + 1/2 Pollo",
                 "description": "12 Presas + 2 Acompañamientos + 1 Dulce + Guacamole + Salsa de la casa",
                 "price": "44.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/12Presas_2AcompanamientosOriginales_2AcompanamientosDulces_Guacamole_SalsaDeLaCasa.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PolloYMedio3Acompanamientos.jpg"
             }
         ]
     },
