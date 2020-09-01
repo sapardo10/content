@@ -5,25 +5,18 @@
         "combo_image":"orange_menu_title_image.png",
         "dishes":[
             {
-                "name": "Combo Original clásico",
-                "description": "1 pollo + salsa de la casa",
-                "price": "16.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/landings/el-original/promo.jpg",
-                "termsAndConditions": "Oferta válida del 1 al 31 de agosto del 2020, de 11:00 am a 8:30 pm a través de las plataformas de domicilios: Rappi, IFood, UberEats y domicilios.com. Aplica para 1 pollo de 8 presas + guacamole, precio original de $21.900, y precio final de venta con descuento en $15.000. Cualquier adición deberá ser asumida por el cliente. No acumulable con otras promociones u ofertas."
+                "name": "Original de La Casa",
+                "description": "Pollo + salsa de la casa",
+                "price": "15.900",
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/landings/el-original/sept15900.jpg",
+                "termsAndConditions": "Imagenes de referencia. Oferta válida del 1 al 30 de septiembre del 2020, de 11:00 am a 8:30 pm a través de la plataformas de domicilios: Rappi, IFood, UberEats y domicilios.com. Aplica para 1 pollo de 8 presas + salsa de la casa, precio original de $19.900, precio final de venta con descuento en $15.900. Cualquier adición deberá ser asumida por el cliente. No acumulable con otras promociones u ofertas."
             },
             {
-                "name": "Combo Original Súper",
-                "description": "1 pollo + 1 acompañamiento + guacamole + Coca Cola de 1.5 L",
-                "price": "26.900",
+                "name": "Original típico",
+                "description": "1/2 Pollo + papa salada + guacamole",
+                "price": "11.900",
                 "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PromoPolloCocacola.jpg",
-                "termsAndConditions": "Oferta válida del 1 al 31 de agosto del 2020,  desde las 11:00 am hasta las 8:30 pm a través de las plataformas de domicilios: Rappi, UberEats, domicilios.com y IFood.  La promoción aplica para 1  pollo + acompañamiento original + guacamole + gaseosa coca cola de 1.5L, por un costo de $26.900 con descuento incluido. Precio Original $31.800. El sabor de la gaseosa podrá ser escogido entre: original o zero. Promoción no acumulable con otras promociones u ofertas."
-            },
-            {
-                "name": "Combo Original para compartir",
-                "description": "1 pollo y medio + 3 acompañamientos (2 originales y 1 dulce) + guacamole",
-                "price": "35.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PromoPolloYMedio.jpg",
-                "termsAndConditions": "Oferta válida del 1 al 31 de agosto del 2020,  desde las 11:00 am hasta las 8:30 pm a través de las plataformas de domicilios: Rappi, UberEats, domicilios.com y IFood.  La promoción aplica para 1  pollo y medio + 2 acompañamientos originales + 1 acompañamiento dulce + guacamole por un costo de $35.900 con descuento incluido. Precio Original $44.900. Promoción no acumulable con otras promociones u ofertas."
+                "termsAndConditions": "Imagenes de referencia. Oferta válida del 1 al 30 de septiembre del 2020,  desde las 11:00 am hasta las 8:30 pm a través de las plataformas de domicilios: Rappi, UberEats, domicilios.com y IFood.  La promoción aplica para 1/2 pollo + 1 acompañamiento de papa salada + guacamole, precio original de $13.900, y precio final de venta con descuento en $11.900. Promoción no acumulable con otras promociones u ofertas."
             }
         ]
     },
