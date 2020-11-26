@@ -14,92 +14,56 @@
         ]
     },
     {
-        "combo_name":"Combos: 1 Acompañamiento",
+        "combo_name":"COMBOS PA´TI",
         "combo_image":"blue_menu_title_image.png",
         "dishes":[
             {
-                "name": "1 Pollo",
-                "description": "8 Presas + guacamole + acompañamiento",
-                "price": "26.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PolloCompleto_Acompanamiento_Guacamole.jpg"
+                "name": "Típico",
+                "description": "1 Pollo (8 presas) con guacamole incluído + 1 porción de papa salada + Ají",
+                "price": "24.500",
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Tipico.jpg"
             },
             {
-                "name": "1/2 Pollo",
-                "description": "4 Presas + guacamole + acompañamiento",
+                "name": "1/2 Típico",
+                "description": "1/2 Pollo (4 presas) con guacamole incluído + 1 porción de papa salada + Ají",
                 "price": "13.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/4Presas_Acompanamiento_Guacamole.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/MedioTipico.jpg"
             },
             {
-                "name": "1/4 Pollo",
-                "description": "2 Presas + guacamole + acompañamiento",
+                "name": "1/4 Típico",
+                "description": "1/4 Pollo (2 presas) con guacamole incluído + 1 porción de papa salada + Ají",
                 "price": "9.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/2Presas_AcompanamientoOriginal_Guacamole.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/CuartoTipico.jpg"
             }
         ]
     },
     {
-        "combo_name":"Combos: 2 Acompañamientos",
+        "combo_name":"COMBOS PA´COMPARTIR",
         "combo_image":"yellow_menu_title_image.png",
         "dishes":[
             {
-                "name": "1 Pollo",
-                "description": "8 Presas + guacamole + 2 acompañamientos",
-                "price": "32.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Pollo2Acompanamientos.jpg"
+                "name": "Típico pa compartir",
+                "description": "1 Pollo (8 presas) con guacamole incluído + 2 porciones de papa salada + plátano a elección + Ají",
+                "price": "32.500",
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/TipicoCompartir.jpg"
             },
             {
-                "name": "1/2 Pollo",
-                "description": "4 Presas + guacamole + 2 acompañamientos",
-                "price": "19.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/MedioPollo2Acompanamientos.jpg"
+                "name": "Con francesa pa compartir",
+                "description": "1 Pollo (8 presas) con guacamole incluído + 2 porciones de papa a la francesa + plátano a elección + Ají",
+                "price": "32.500",
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/CompartirFrancesa.jpg"
             },
             {
-                "name": "1/4 Pollo",
-                "description": "2 Presas + guacamole + 2 acompañamientos",
-                "price": "15.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/CuartoPollo2Acompanamientos.jpg"
-            }
-        ]
-    },
-    {
-        "combo_name":"Combos: 3 Acompañamientos",
-        "combo_image":"orange_menu_title_image.png",
-        "dishes":[
-            {
-                "name": "1 Pollo",
-                "description": "8 Presas + 2 Acompañamientos + 1 Dulce + Guacamole + Salsa de la casa",
+                "name": "Criollo pa compartir",
+                "description": "1 Pollo (8 presas) con guacamole incluído + 2 porciones de papa criolla + 3 porciones de fríjol con hogao + 3 porciones de arroz blanco + Ají",
                 "price": "35.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Pollo3Acompanamientos.jpg"
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/CompartirCriolla.jpg"
             },
             {
-                "name": "1Pollo + 1/2 Pollo",
-                "description": "12 Presas + 2 Acompañamientos + 1 Dulce + Guacamole + Salsa de la casa",
-                "price": "44.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/PolloYMedio3Acompanamientos.jpg"
-            }
-        ]
-    },
-    {
-        "combo_name":"Pollo sin acompañamientos",
-        "combo_image":"",
-        "dishes":[
-            {
-                "name": "1 Pollo",
-                "description": "8 Presas + guacamole",
-                "price": "21.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Pollo.jpg"
-            },
-            {
-                "name": "1/2 Pollo",
-                "description": "4 Presas + guacamole",
-                "price": "12.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/Mediopollo.jpg"
-            },
-            {
-                "name": "1/4 Pollo",
-                "description": "2 Presas + guacamole",
-                "price": "8.900",
-                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/2presas_Guacamole.jpg"
+                "name": "Típico agrandado",
+                "description": "1 pollo y 1/2 (12 presas) con guacamole incluído + 2 porciones de papa salada + plátano a elección + Ají + gaseosa 1,5",
+                "price": "47.500",
+                "image":"https://files-muy.s3-us-west-1.amazonaws.com/photos/menus/dishes/thumbnails/eloriginal/TipicoAgrandado.jpg"
             }
         ]
     }
